@@ -1,1 +1,5 @@
 # IEEE33Matlab-simulink
+使用Matlab/simulink搭建的IEEE33节点仿真
+脚本分别是修改Node的P和QL参数
+查看器件参数名称
+修改线路长度确定短路点
